@@ -1,0 +1,7 @@
+nuevos ejercicios basados en el curso de udemy
+obtencion de datos y manipulacion de los mismos
+quiero actualizar el contenido en esta sola rama de git
+espero hacer el cambio posible para el dia 28/03/2023
+ignoro hacia donde se estan yendo los cambios
+
+dia 30/03 tratando de hacer los cambios para subir desde git terminal

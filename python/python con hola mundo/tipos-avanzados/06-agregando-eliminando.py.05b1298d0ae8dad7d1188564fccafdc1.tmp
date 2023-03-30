@@ -1,0 +1,24 @@
+mascotas = [
+    "pelusa",
+    "kira",
+    "pulga",
+    "felipe",
+    "chanchito",
+    "kira"
+]
+#inserta en una posicion dada,  el contenido dado
+mascotas.insert(1, "chato")
+
+#inserta en el final un valor
+mascotas.append("rocoto")
+
+#elimina el primer valor encontrado que cumpla con la condicion
+mascotas.remove("kira")
+
+#elimina un valor en base al indice suministrado, sino elimina el ultimo
+mascotas.pop()
+
+#elimina un valor en base al indice suministrado
+del mascotas[0]
+
+print(mascotas)

@@ -1,0 +1,220 @@
+Titulo: Analyst / Programmer
+ Empresa:Pipeline Recruitment
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66139398?type=promoteda
+
+Titulo: Senior Software Engineer, Evo - Remote
+ Empresa:Seequent
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66139165?type=promoteda
+
+Titulo: Junior Software Engineer
+ Empresa:TVNZ
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66121045?type=standouta
+
+Titulo: Software Developer
+ Empresa:Momentum Consulting Group
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66141362?type=standouta
+
+Titulo: Senior Backend Developer
+ Empresa:The Growth Collective Limited
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66108181?type=standouta
+
+Titulo: Junior Data Scientist
+ Empresa:Customise Talent Group
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66019071?type=standouta
+
+Titulo: Software Engineer / Programmer
+ Empresa:Grimmer Motors 2015 Limited
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66073554?type=standarda
+
+Titulo: Software Developer
+ Empresa:The Access Group
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66057809?type=standouta
+
+Titulo: Analyst / Programmer
+ Empresa:Pipeline Recruitment
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66139398?type=standouta
+
+Titulo: Senior Fullstack Python Developer
+ Empresa:Recruit I.T. Auckland
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66043968?type=standouta
+
+Titulo: SOFTWARE DEVELOPER (INTERMEDIATE LEVEL)
+ Empresa:talentnow!
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66087283?type=standouta
+
+Titulo: Junior Data and Operations Associate
+ Empresa:Crew Technology Recruitment
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66072486?type=standouta
+
+Titulo: Software Engineer
+ Empresa:Fisher & Paykel Healthcare
+ Salario: n/a
+Link: https://www.seek.co.nz/job/65987429?type=standouta
+
+Titulo: Data Engineer
+ Empresa:Talent Army Wellington
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66136493?type=standouta
+
+Titulo: Intermediate Python Integration Developer
+ Empresa:Bureau Limited
+ Salario: n/a
+Link: https://www.seek.co.nz/job/63547523?type=standouta
+
+Titulo: Principal Software Engineer
+ Empresa:Momentum Consulting Group
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66114816?type=standouta
+
+Titulo: Intermediate Software Engineer
+ Empresa:Serko Limited
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66138954?type=standouta
+
+Titulo: Software Developer
+ Empresa:Rubber Monkey Sales Ltd
+ Salario: n/a
+Link: https://www.seek.co.nz/job/65558797?type=standarda
+
+Titulo: Full Stack Software Developer
+ Empresa:Sandfield Associates
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66105643?type=standouta
+
+Titulo: Data Engineer (Remote from NZ, or Gold Coast Australia)
+ Empresa:TechConnect IT Solutions Pty Ltd
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66019299?type=standouta
+
+Titulo: Junior DevOps Engineer
+ Empresa:Fusion Networks Ltd
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66077229?type=standouta
+
+Titulo: Principal Software Engineer
+ Empresa:Momentum Consulting Group
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66114804?type=standouta
+
+Titulo: Analyst / Programmer
+ Empresa:Pipeline Recruitment
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66139398?type=promoteda
+
+Titulo: Reliability Engineer
+ Empresa:ANZ Banking group
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66110822?type=promoteda
+
+Titulo: Junior Software Engineer
+ Empresa:TVNZ
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66121045?type=standouta
+
+Titulo: Software Developer
+ Empresa:Momentum Consulting Group
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66141362?type=standouta
+
+Titulo: Senior Backend Developer
+ Empresa:The Growth Collective Limited
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66108181?type=standouta
+
+Titulo: Junior Data Scientist
+ Empresa:Customise Talent Group
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66019071?type=standouta
+
+Titulo: Software Engineer / Programmer
+ Empresa:Grimmer Motors 2015 Limited
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66073554?type=standarda
+
+Titulo: Software Developer
+ Empresa:The Access Group
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66057809?type=standouta
+
+Titulo: Senior Fullstack Python Developer
+ Empresa:Recruit I.T. Auckland
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66043968?type=standouta
+
+Titulo: Analyst / Programmer
+ Empresa:Pipeline Recruitment
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66139398?type=standouta
+
+Titulo: SOFTWARE DEVELOPER (INTERMEDIATE LEVEL)
+ Empresa:talentnow!
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66087283?type=standouta
+
+Titulo: Junior Data and Operations Associate
+ Empresa:Crew Technology Recruitment
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66072486?type=standouta
+
+Titulo: Software Engineer
+ Empresa:Fisher & Paykel Healthcare
+ Salario: n/a
+Link: https://www.seek.co.nz/job/65987429?type=standouta
+
+Titulo: Data Engineer
+ Empresa:Talent Army Wellington
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66136493?type=standouta
+
+Titulo: Intermediate Python Integration Developer
+ Empresa:Bureau Limited
+ Salario: n/a
+Link: https://www.seek.co.nz/job/63547523?type=standouta
+
+Titulo: Intermediate Software Engineer
+ Empresa:Serko Limited
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66138954?type=standouta
+
+Titulo: Software Developer
+ Empresa:Rubber Monkey Sales Ltd
+ Salario: n/a
+Link: https://www.seek.co.nz/job/65558797?type=standarda
+
+Titulo: Full Stack Software Developer
+ Empresa:Sandfield Associates
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66105643?type=standouta
+
+Titulo: Data Engineer (Remote from NZ, or Gold Coast Australia)
+ Empresa:TechConnect IT Solutions Pty Ltd
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66019299?type=standouta
+
+Titulo: Junior DevOps Engineer
+ Empresa:Fusion Networks Ltd
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66077229?type=standouta
+
+Titulo: Data Scientist
+ Empresa:EECA
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66022714?type=standouta
+
+Titulo: Senior Backend/Full Stack Developer
+ Empresa:Osho
+ Salario: n/a
+Link: https://www.seek.co.nz/job/66052638?type=standouta
+
