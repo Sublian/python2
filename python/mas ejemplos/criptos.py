@@ -1,6 +1,7 @@
 from datetime import date, timedelta
 import pandas as pd
 from binance import Client
+import os
 
 today=date.today()
 yesterday= today-timedelta(days=1)
@@ -26,7 +27,7 @@ def criptodata(dataticker):
     print(df)
     
     #save to csv
-    df.to_csv(dataticker+".csv", encoding='utf-8')
+    df.to_csv(os.path.dirname(__file__)+"/"+dataticker+".csv", encoding='utf-8')
     print("Data Extraction finished for", dataticker, " :) ")
 
 
