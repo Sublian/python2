@@ -5,3 +5,4 @@ espero hacer el cambio posible para el dia 28/03/2023
 ignoro hacia donde se estan yendo los cambios
 
 dia 30/03 tratando de hacer los cambios para subir desde git terminal
+sigo tratando de subir contenido
